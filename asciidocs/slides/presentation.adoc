@@ -35,11 +35,11 @@ image::cover.jpeg[background, size=cover]
 
 === Actions Secrets
 
-image::action-secrets.png[width=640]
+image::action_secret.png[width=640]
 
 === Repository Secrets
 
-image::repository_secrets.png[width=640]
+image::repositpory_secret.png[width=640]
 
 === Envionment Secrets
 
@@ -62,7 +62,7 @@ image::k8s_logo.png[background, size=cover]
 
 === k8s Secrets create
 
-image::k8s.png
+image::k8s.png[width=640]
 
 
 
