@@ -1,4 +1,4 @@
-:customcss: ../style.css
+:customcss: style.css
 :author: Sugic
 :revnumber: 1.0
 :revdate: {docdate}
@@ -10,12 +10,11 @@
 
 //:numbered:
 
-[.oidau]
-== Github & k8s  Secrets
+= Github & k8s  Secrets
 
 Oliver Sugic
 
-image::confidential.jpeg[background, size=cover]
+image::confidential.jpg[background, size=cover]
 
 == Warum Secrets
 
