@@ -56,11 +56,12 @@ image::orginsation_secret.png[width=640]
 * etcd als key value store
 
 * Tools zur Verwaltung von Geheimnissen
+
 image::k8s_logo.png[background, size=cover]
 
 === k8s Secrets create
 
-image::k8s.png[width=640]
+image::k8s.png[width=800]
 
 
 
