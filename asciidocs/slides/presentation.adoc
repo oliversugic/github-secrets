@@ -51,13 +51,15 @@ image::orginsation_secret.png[width=640]
 
 
 == k8S Secrets 
+
 * In Memory
 
 * etcd als key value store
 
 * Tools zur Verwaltung von Geheimnissen
 
-image::k8s_logo.png[background, size=cover]
+image::k8s_logo.jpeg[background, size=cover, opacity=50%]
+
 
 === k8s Secrets create
 
