@@ -21,7 +21,7 @@ image::confidential.jpeg[background, size=cover]
 
 * sensibele Informationen schützen
 
-image::cover.jpeg[background, size=cover]
+image::cover.png[background, size=cover]
 
 == Arten von Secrets
 
@@ -35,19 +35,19 @@ image::cover.jpeg[background, size=cover]
 
 === Actions Secrets
 
-image::action_secret.png[width=640]
+image::action_secret.png[width=1100]
 
 === Repository Secrets
 
-image::repositpory_secret.png[width=640]
+image::repositpory_secret.png[width=1100]
 
 === Envionment Secrets
 
-image::enviroment.png[width=640]
+image::enviroment.png[width=1100]
 
 === Organisation Secrets
 
-image::orginsation_secret.png[width=640]
+image::orginsation_secret.png[width=1100]
 
 
 == k8S Secrets 
@@ -58,7 +58,7 @@ image::orginsation_secret.png[width=640]
 
 * Tools zur Verwaltung von Geheimnissen
 
-image::k8s_logo.jpeg[background, size=cover, opacity=50%]
+image::k8s_logo.png[background, size=cover, opacity=50%]
 
 
 === k8s Secrets create
