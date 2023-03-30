@@ -4,7 +4,7 @@
 :revdate: {docdate}
 :encoding: utf-8
 :lang: de
-:imagesdir: /images
+:imagesdir: images
 :doctype: article
 :icons: font
 
@@ -22,7 +22,6 @@ image::confidential.jpeg[background, size=cover]
 * sensibele Informationen schützen
 
 image::cover.jpeg[background, size=cover]
-
 
 == Arten von Secrets
 
@@ -61,10 +60,9 @@ image::orginsation_secret.png[width=640]
 
 image::k8s_logo.png[background, size=cover]
 
-== k8s Secrets create
+=== k8s Secrets create
 
-
-image::k8s.png[background, size=cover]
+image::k8s.png
 
 
 
