@@ -1,5 +1,5 @@
 :customcss: style.css
-:author: Sugic
+:author: Oliver Sugic
 :revnumber: 1.0
 :revdate: {docdate}
 :encoding: utf-8
@@ -12,7 +12,6 @@
 
 = Github & k8s  Secrets
 
-Oliver Sugic
 
 image::confidential.jpg[background, size=cover]
 
@@ -20,7 +19,7 @@ image::confidential.jpg[background, size=cover]
 
 * sensibele Informationen schützen
 
-image::cover.png[background, size=cover]
+image::cover.jpeg[background, size=cover]
 
 == Arten von Secrets
 
