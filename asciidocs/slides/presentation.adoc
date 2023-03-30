@@ -1,0 +1,70 @@
+:customcss: ../style.css
+:author: Sugic
+:revnumber: 1.0
+:revdate: {docdate}
+:encoding: utf-8
+:lang: de
+:imagesdir: ../images
+:doctype: article
+:icons: font
+
+//:numbered:
+
+[.oidau]
+== Github & k8s  Secrets
+
+Oliver Sugic
+
+image::confidential.jpeg[background, size=cover]
+
+== Warum Secrets
+
+* sensibele Informationen schützen
+
+image::cover.jpeg[background, size=cover]
+
+
+== Arten von Secrets
+
+* Actions Secrets
+
+* Repository Secrets
+
+* Envionment Secrets
+
+* Organisation Secrets
+
+=== Actions Secrets
+
+image::action-secrets.png[width=640]
+
+=== Repository Secrets
+
+image::repository_secrets.png[width=640]
+
+=== Envionment Secrets
+
+image::enviroment.png[width=640]
+
+=== Organisation Secrets
+
+image::orginsation_secret.png[width=640]
+
+
+== k8S Secrets
+
+* In Memory
+
+* etcd als key value store
+
+* Tools zur Verwaltung von Geheimnissen
+
+image::k8s_logo.png[background, size=cover]
+
+== k8s Secrets create
+
+
+image::k8s.png[background, size=cover]
+
+
+

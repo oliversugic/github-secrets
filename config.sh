@@ -1,0 +1,3 @@
+SLIDES=true
+INPUTPATH=ascidocs
+OUTPUTPATH=dist
