@@ -50,7 +50,7 @@ image::orginsation_secret.png[width=1100]
 
 == k8S Secrets 
 
-=== k8s Secrets create
+=== k8s Secrets
 
 [source,yaml]
 ----
