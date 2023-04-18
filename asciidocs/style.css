@@ -12,3 +12,5 @@
     color: black;
     background-color: white;
 }
+
+.slide-background { opacity: 0.1 !important; }

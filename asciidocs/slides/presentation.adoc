@@ -15,9 +15,11 @@
 
 image::confidential.jpg[background, size=cover]
 
+[.slide-backgroun]
 == Warum Secrets
 
 * sensibele Informationen schützen
+
 
 image::cover.jpeg[background, size=cover]
 
@@ -50,6 +52,7 @@ image::orginsation_secret.png[width=1100]
 
 == k8S Secrets 
 
+[background-color="white"]
 === k8s Secrets
 
 [source,yaml]
