@@ -50,18 +50,18 @@ image::orginsation_secret.png[width=1100]
 
 == k8S Secrets 
 
-* In Memory
-
-* etcd als key value store
-
-* Tools zur Verwaltung von Geheimnissen
-
-image::k8s_logo.png[background, size=cover, opacity=50%]
-
-
 === k8s Secrets create
 
-image::k8s.png[width=800]
-
+[source,yaml]
+----
+apiVersion: v1
+kind: Secret
+metadata:
+  name: my-secret
+type: Opaque
+data:
+  my-key: bXktdmFsdWU=  # base64-encoded value of my-value
+In this example:
+----
 
 
