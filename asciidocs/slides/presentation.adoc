@@ -52,7 +52,7 @@ image::orginsation_secret.png[width=1100]
 
 == k8S Secrets 
 
-[background-color="white"]
+[.background-color]
 === k8s Secrets
 
 [source,yaml]
